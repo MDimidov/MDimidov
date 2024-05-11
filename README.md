@@ -1,6 +1,33 @@
+
 <h1 align="center"> 
-### Hi there! 👋 I'm Mariyan
+Hi there! 👋 I'm Mariyan
 </h1>
+<br>
+
+## 🤸🏻‍♂️ About Me
+- 🌱 I’m currently learning Software Engineering and DevOps
+- 👯 I’m looking to collaborate on open-source projects related to C# development.
+- ⚡ Fun fact: If you can't find the bug in your code, start banging your head against the wall for an hour. It probably won't help, but you'll burn about 150 calories.
+<br>
+  
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/M.Dimidov) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/myro.97) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dimidov) [![Telegram](https://img.shields.io/badge/Telegram-%231877F2.svg?logo=Telegram&logoColor=white)](https://t.me/MDimidov)
+<br>
+<br>
+
+## 💻 Languages and Technologies
+
+<p align="left">
+<a href="#" target="blank"><img align="center" src="https://seeklogo.com/images/N/net-logo-13E6F1F153-seeklogo.com.png" alt="" height="30" /></a>
+<a href="#" target="blank"><img align="center" src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" alt="" height="30" /></a>
+<a href="#" target="blank"><img align="center" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/09/vs-code-responsive-01-1.png" alt="" height="30" /></a>
+<a href="#" target="blank"><img align="center" src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" alt="" height="30" /></a>
+<a href="#" target="blank"><img align="center" src="https://seeklogo.com/images/C/css-3-logo-023C1A7171-seeklogo.com.png" alt="" height="30" /></a>
+<a href="#" target="blank"><img align="center" src="https://seeklogo.com/images/B/bootstrap-logo-3C30FB2A16-seeklogo.com.png" alt="" height="30" /></a>
+<a href="#" target="blank"><img align="center" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="" height="30" /></a>
+<a href="#" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" alt="" height="30" /></a>
+</p>
+<br>
 <!--
 ```javascript
 const Mariyan = {
@@ -21,17 +48,21 @@ const Mariyan = {
 ```
 -->
 
+## 😼 GitHub Stats:
+
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=MDimidov&show_icons=true&theme=transparent&hide_border=true&text_color=595959&title_color=2b8405&icon_color=38761d&show=reviews,prs_merged_percentage" height="215"          alt="languages graph"  />
+  <!--
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&&MDimidov&show_icons=true&theme=transparent&hide_border=true&text_color=595959&title_color=2b8405&icon_color=38761d" height="215"        alt="streak graph"  />
+  -->
+  <img src="https://streak-stats.demolab.com/?user=MDimidov&locale=en&theme=shadow_green&hide_border=true" height="215" alt="streak graph"  />
+</div>
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/MDimidov/count.svg" />
 </p>
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=MDimidov&show_icons=true&theme=transparent&hide_border=true&text_color=595959&title_color=2b8405&icon_color=38761d&show=reviews,prs_merged_percentage" height="215"          alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&&MDimidov&show_icons=true&theme=transparent&hide_border=true&text_color=595959&title_color=2b8405&icon_color=38761d" height="215"        alt="streak graph"  />
-  <img src="https://streak-stats.demolab.com/?user=MDimidov&locale=en&theme=shadow_green&hide_border=true" height="215" alt="streak graph"  />
-</div>
-
 <!--
 **MDimidov/MDimidov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -44,5 +75,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: The oldest “your mom” joke was discovered on a 3,500-year-old Babylonian tablet.
 -->
