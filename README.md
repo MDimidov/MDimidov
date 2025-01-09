@@ -5,9 +5,9 @@ Hi there! 👋 I'm Mariyan
 <br>
 
 ## 🤸🏻‍♂️ About Me
-- 🌱 I’m currently learning Software Engineering and DevOps
-- 👯 I’m looking to collaborate on open-source projects related to C# development.
-- ⚡ Fun fact: If you can't find the bug in your code, start banging your head against the wall for an hour. It probably won't help, but you'll burn about 150 calories.
+- 💻 I specialize in C# development and have a passion for creating scalable and efficient solutions.
+- 🤝 I’m actively seeking opportunities to contribute to impactful open-source projects.
+- ⚡ Fun fact: Debugging can be like solving a mystery, but unlike Sherlock Holmes, I don't mind spending hours in the process (though coffee helps)!
 <br>
   
 ## 🌐 Socials:
@@ -55,8 +55,9 @@ const Mariyan = {
   <img src="https://github-readme-stats.vercel.app/api?username=MDimidov&show_icons=true&theme=transparent&hide_border=true&text_color=595959&title_color=2b8405&icon_color=38761d&show=reviews,prs_merged_percentage" height="215"          alt="languages graph"  />
   <!--
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&&MDimidov&show_icons=true&theme=transparent&hide_border=true&text_color=595959&title_color=2b8405&icon_color=38761d" height="215"        alt="streak graph"  />
-  -->
+ 
   <img src="https://streak-stats.demolab.com/?user=MDimidov&locale=en&theme=shadow_green&hide_border=true" height="215" alt="streak graph"  />
+   -->
 </div>
 
 <p align="center"> 
