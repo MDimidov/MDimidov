@@ -48,6 +48,13 @@ const Mariyan = {
 ```
 -->
 
+
+## 🏆 GitHub Trophies
+
+<a href="#"><img align="center" src="https://github-profile-trophy.vercel.app/?username=MDimidov&theme=matrix" alt="GitHub Trophies" /></a>
+<br>
+<br>
+
 ## 😼 GitHub Stats:
 
 <div align="center">
