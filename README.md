@@ -9,6 +9,10 @@ Hi there! 👋 I'm Mariyan
 - 🤝 I’m actively seeking opportunities to contribute to impactful open-source projects.
 - ⚡ Fun fact: Debugging can be like solving a mystery, but unlike Sherlock Holmes, I don't mind spending hours in the process (though coffee helps)!
 <br>
+
+## 🎓 Education
+- **Nikola Vaptsarov Naval Academy** (2016-2020) - Bachelor's degree in Engineering with a specialization in Navigation (5.61/6.00 GPA)
+- [**Software University** (2022-2024) - Professional degree in Software Engineering (6.00/6.00 GPA)](https://softuni.bg/certificates/details/234872/33620e90)
   
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/M.Dimidov) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/myro.97) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dimidov) [![Telegram](https://img.shields.io/badge/Telegram-%231877F2.svg?logo=Telegram&logoColor=white)](https://t.me/MDimidov)
