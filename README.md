@@ -11,7 +11,7 @@ Hi there! 👋 I'm Mariyan
 <br>
 
 ## 🎓 Education
-- [**Nikola Vaptsarov Naval Academy** (2016-2020) - Bachelor's degree in Engineering with a specialization in Navigation (5.61/6.00 GPA)](https://github.com/MDimidov/MDimidov/blob/main/diploma/students-nacid-bg-graduated-search-Dimidov.png)
+- [**Nikola Vaptsarov Naval Academy** (2016-2020) - Bachelor's degree in Engineering with a specialization in Navigation (5.61/6.00 GPA)](https://mdimidov.github.io/MyResume/img/certificates/naval/naval-diploma.jpg)
 - [**Software University** (2022-2024) - Professional degree in Software Engineering (6.00/6.00 GPA)](https://softuni.bg/certificates/details/234872/33620e90)
   
 ## 🌐 Socials:
