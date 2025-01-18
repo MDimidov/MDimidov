@@ -24,22 +24,22 @@ Hi there! 👋 I'm Mariyan
 ## 💻 Languages and Technologies
 
 <p align="left">
- <a href="#" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="C#" height="30" /></a>
- <a href="#" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" alt="JS" height="30" /></a>
- <a href="#" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML 5" height="30" /></a>
- <a href="#" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS 3" height="30" /></a>
- <a href="#" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Extensible_Markup_Language_%28XML%29_logo.svg" alt="XML" height="30" /></a>
- <a href="#" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/640px-Microsoft_.NET_logo.svg.png" alt=".NET" height="30" /></a>
- <a href="#" target="blank"><img align="center" src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" alt="Visual Studio" height="30" /></a>
- <a href="#" target="blank"><img align="center" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/09/vs-code-responsive-01-1.png" alt="VS Code" height="30" /></a>
- <a href="#" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg" alt="GitHub" height="30" /></a>
- <a href="#" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="Git" height="30" /></a>
- <a href="#" target="blank"><img align="center" src="https://www.pngkey.com/png/detail/254-2549864_sql-server-logo-microsoft-sql-server.png" alt="SSMS" height="30" /></a>
- <a href="#" target="blank"><img align="center" src="https://cdn.freebiesupply.com/logos/large/2x/bootstrap-4-logo-png-transparent.png" alt="Bootstrap" height="30" /></a>
- <a href="#" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" alt="Azure" height="30" /></a>
- <a href="#" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Docker-svgrepo-com.svg" alt="Docker" height="30" /></a>
- <a href="#" target="blank"><img align="center" src="https://clipground.com/images/terraform-logo.png" alt="Terraform" height="30" /></a>
- <a href="#" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" alt="Jenkins" height="30" /></a>
+ <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="C#" height="30" /></a>
+ <a href="https://www.javascript.com/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" alt="JS" height="30" /></a>
+ <a href="https://html.spec.whatwg.org/multipage/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML 5" height="30" /></a>
+ <a href="https://www.geeksforgeeks.org/css-tutorial/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS 3" height="30" /></a>
+ <a href="https://www.w3.org/XML/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Extensible_Markup_Language_%28XML%29_logo.svg" alt="XML" height="30" /></a>
+ <a href="https://dotnet.microsoft.com/en-us/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/640px-Microsoft_.NET_logo.svg.png" alt=".NET" height="30" /></a>
+ <a href="https://visualstudio.microsoft.com/" target="_blank"><img align="center" src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" alt="Visual Studio" height="30" /></a>
+ <a href="https://code.visualstudio.com/" target="_blank"><img align="center" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/09/vs-code-responsive-01-1.png" alt="VS Code" height="30" /></a>
+ <a href="https://github.com/MDimidov" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg" alt="GitHub" height="30" /></a>
+ <a href="https://git-scm.com/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="Git" height="30" /></a>
+ <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank"><img align="center" src="https://www.pngkey.com/png/detail/254-2549864_sql-server-logo-microsoft-sql-server.png" alt="SSMS" height="30" /></a>
+ <a href="https://getbootstrap.com/" target="_blank"><img align="center" src="https://cdn.freebiesupply.com/logos/large/2x/bootstrap-4-logo-png-transparent.png" alt="Bootstrap" height="30" /></a>
+ <a href="https://portal.azure.com/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" alt="Azure" height="30" /></a>
+ <a href="https://www.docker.com/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Docker-svgrepo-com.svg" alt="Docker" height="30" /></a>
+ <a href="https://www.terraform.io/" target="_blank"><img align="center" src="https://clipground.com/images/terraform-logo.png" alt="Terraform" height="30" /></a>
+ <a href="https://www.jenkins.io/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" alt="Jenkins" height="30" /></a>
 </p>
 <br>
 <!--
