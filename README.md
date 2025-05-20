@@ -25,6 +25,7 @@ Hi there! 👋 I'm Mariyan
 
 <p align="left">
  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="C#" height="30" /></a>
+ <a href="https://cplusplus.com/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" height="30" /></a>
  <a href="https://www.javascript.com/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" alt="JS" height="30" /></a>
  <a href="https://html.spec.whatwg.org/multipage/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML 5" height="30" /></a>
  <a href="https://www.geeksforgeeks.org/css-tutorial/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS 3" height="30" /></a>
@@ -32,6 +33,8 @@ Hi there! 👋 I'm Mariyan
  <a href="https://dotnet.microsoft.com/en-us/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/640px-Microsoft_.NET_logo.svg.png" alt=".NET" height="30" /></a>
  <a href="https://visualstudio.microsoft.com/" target="_blank"><img align="center" src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" alt="Visual Studio" height="30" /></a>
  <a href="https://code.visualstudio.com/" target="_blank"><img align="center" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/09/vs-code-responsive-01-1.png" alt="VS Code" height="30" /></a>
+ <a href="https://react.dev/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/3/30/React_Logo_SVG.svg" alt="React" height="30" /></a>
+ <a href="https://vite.dev/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" alt="Vite" height="30" /></a>
  <a href="https://github.com/MDimidov" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg" alt="GitHub" height="30" /></a>
  <a href="https://git-scm.com/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="Git" height="30" /></a>
  <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank"><img align="center" src="https://www.pngkey.com/png/detail/254-2549864_sql-server-logo-microsoft-sql-server.png" alt="SSMS" height="30" /></a>
