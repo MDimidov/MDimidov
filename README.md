@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://mdimidov.github.io/MyResume/">
-<img src="https://readme-typing-svg.demolab.com?font=&weight=800&size=44&duration=4000&pause=500&color=029E2F&center=true&vCenter=true&width=600&height=58&lines=Hi+there!+%F0%9F%91%8B;I'm+Mariyan+Dimidov+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Welcome+to+my+profile+%F0%9F%9A%80;Click+me+to+see+my+CV+%F0%9F%93%9D" 
+<img src="https://readme-typing-svg.demolab.com?font=&weight=800&size=44&duration=4000&pause=500&color=029E2F&center=true&vCenter=true&width=600&height=58&lines=Hi+there!+%F0%9F%91%8B;I'm+Mariyan+Dimidov+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Welcome+to+my+profile;Click+me+to+see+my+CV" 
   alt="Typing SVG" />
 </a>
 </div>
