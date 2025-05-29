@@ -1,7 +1,7 @@
+<div align="center">
 
-<h1 align="center"> 
-Hi there! 👋 I'm Mariyan
-</h1>
+<a href="https://mdimidov.github.io/MyResume/"><img src="https://readme-typing-svg.demolab.com?font=&weight=800&size=44&duration=4000&pause=500&color=029E2F&center=true&vCenter=true&width=810&height=52&lines=Hi+there!+%F0%9F%91%8B;I'm+Mariyan+Dimidov+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Welcome+to+my+GitHub+profile+%F0%9F%9A%80;Click+me+to+see+my+Resume+(CV)+%F0%9F%93%9D" alt="Typing SVG" /></a>
+</div>
 <br>
 
 ## 🤸🏻‍♂️ About Me
