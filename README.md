@@ -69,6 +69,9 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mdimidov&show_icons=true&theme=transparent&hide_border=true&text_color=595959&title_color=2b8405" alt="Top Languages"/>
     <br>
     <br>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Mdimidov&theme=transparent&hide_border=true&text_color=595959&title_color=2b8405" alt="Top Contributed Repos"/>
+    <br>
+    <br>
     <img src="https://github-contributor-stats.vercel.app/api?username=MDimidov&limit=5&theme=transparent&hide_border=true&text_color=595959&title_color=2b8405&combine_all_yearly_contributions=true" alt="Top Contributed Repos"/>
   </details>
 
