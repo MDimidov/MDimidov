@@ -77,7 +77,7 @@
 
 </div>
 
-<div align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/MDimidov/count.svg" />
+<div align="center">
+
+  ![Visitor view](https://img.shields.io/endpoint?url=https://yasinkalkan.com/api/githubvisitorstats/track/?user=MDimidov&color=darkgreen)
 </div>
