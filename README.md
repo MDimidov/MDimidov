@@ -64,7 +64,7 @@
  
    <details>
     <summary><b>🔥 More Stats</b></summary>
-    <img src="https://streak-stats.demolab.com/?user=MDimidov&locale=en&theme=shadow_green&hide_border=true" height="215" alt="streak graph"  />
+    <img src="https://streak-stats.demolab.com/?user=MDimidov&locale=bg&theme=shadow-green&hide_border=true" height="215" alt="streak graph"  />
     <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mdimidov&show_icons=true&theme=transparent&hide_border=true&text_color=595959&title_color=2b8405" alt="Top Languages"/>
     <br>
@@ -73,6 +73,9 @@
     <br>
     <br>
     <img src="https://github-contributor-stats.vercel.app/api?username=MDimidov&limit=5&theme=transparent&hide_border=true&text_color=595959&title_color=2b8405&combine_all_yearly_contributions=true" alt="Top Contributed Repos"/>
+    <br>
+    <br>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MDimidov&theme=chartreuse_dark&hide_border=true" alt="Contributions" />
   </details>
 
 </div>
