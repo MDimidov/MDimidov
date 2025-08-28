@@ -53,7 +53,7 @@
 
 ## 🏆 GitHub Trophies
 
-<a href="#"><img align="center" src="https://github-trophies.vercel.app/?username=MDimidov&theme=matrix&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" /></a>
+<a href="#"><img align="center" src="https://github-trophies.vercel.app/?username=MDimidov&theme=matrix&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" /></a>
 <br>
 <br>
 
