@@ -64,7 +64,7 @@
  
    <details>
     <summary><b>🔥 More Stats</b></summary>
-    <img src="https://streak-stats.demolab.com/?user=MDimidov&locale=bg&theme=shadow-green&hide_border=true" height="215" alt="streak graph"  />
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MDimidov&theme=shadow-green&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
     <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mdimidov&show_icons=true&theme=transparent&hide_border=true&text_color=595959&title_color=2b8405" alt="Top Languages"/>
     <br>
