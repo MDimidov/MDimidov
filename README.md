@@ -178,5 +178,5 @@
 
 <div align="center">
 
-  ![Visitor view](https://img.shields.io/endpoint?url=https://yasinkalkan.com/api/githubvisitorstats/track/?user=MDimidov&color=darkgreen)
+  ![Visitor view](https://komarev.com/ghpvc/?username=MDimidov&color=267208&style=plastic&abbreviated=true&label=Profile+Visits)
 </div>
