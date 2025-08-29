@@ -149,7 +149,7 @@
 
 ## 🏆 GitHub Trophies
 
-<a href="#"><img align="center" src="https://github-trophies.vercel.app/?username=MDimidov&theme=matrix&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" /></a>
+![GitHub Trophies](https://github-trophies.vercel.app/?username=MDimidov&theme=matrix&no-frame=true&no-bg=true&margin-w=4)
 <br>
 <br>
 
@@ -162,10 +162,10 @@
     <summary><b>🔥 More Stats</b></summary>
     <img src="https://github-readme-streak-stats-theta-ochre-42.vercel.app?user=MDimidov&theme=shadow-green&hide_border=true&short_numbers=true&fire=EB5454&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
     <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mdimidov&show_icons=true&theme=transparent&hide_border=true&text_color=595959&title_color=2b8405" alt="Top Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDimidov&show_icons=true&theme=transparent&hide_border=true&text_color=595959&title_color=2b8405" alt="Top Languages"/>
     <br>
     <br>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Mdimidov&theme=transparent&hide_border=true&text_color=595959&title_color=2b8405" alt="Top Contributed Repos"/>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MDimidov&theme=transparent&hide_border=true&text_color=595959&title_color=2b8405" alt="Top Contributed Repos"/>
     <br>
     <br>
     <img src="https://github-contributor-stats.vercel.app/api?username=MDimidov&limit=5&theme=transparent&hide_border=true&text_color=595959&title_color=2b8405&combine_all_yearly_contributions=true" alt="Top Contributed Repos"/>
