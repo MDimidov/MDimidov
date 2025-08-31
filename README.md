@@ -53,11 +53,11 @@
   </a>&nbsp;
   <!-- Yaml -->
   <a href="https://yaml.org/" title="YAML">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yaml/yaml-original.svg" alt="YAML" height="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yaml/yaml-original.svg" alt="YAML" height="32" style="background-color: #fff; border-radius: 6px;"/>
   </a>&nbsp;
   <!-- Markdown -->
   <a href="https://www.markdownguide.org/" title="Markdown">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="Markdown" height="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="Markdown" height="32" style="background-color: #fff; border-radius: 6px;"/>
   </a>&nbsp;
   <!-- XML -->
   <a href="https://www.w3.org/XML/" title="XML">
@@ -89,7 +89,7 @@
   </a>&nbsp;
   <!-- GitHub -->
   <a href="https://github.com/MDimidov" title="GitHub">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="32"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="32" style="background-color: #fff; border-radius: 50%;"/>
   </a>&nbsp;
   <!-- Git -->
   <a href="https://git-scm.com/" title="Git">
