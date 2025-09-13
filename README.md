@@ -19,6 +19,10 @@
 - [**Nikola Vaptsarov Naval Academy** (2016-2020) - Bachelor's degree in Engineering with a specialization in Navigation (5.61/6.00 GPA)](https://mdimidov.github.io/MyResume/img/certificates/naval/naval-diploma.jpg)
 - [**Software University** (2022-2024) - Professional degree in Software Engineering (6.00/6.00 GPA)](https://softuni.bg/certificates/details/234872/33620e90)
 
+## 👨🏼‍💻 Experience
+
+- [**CSoft** (Jul.2025 - Aug.2025) - Internship](https://mdimidov.github.io/MyResume/img/certificates/csoft/intership-certificate.jpg) - Worked on a C++ project as part of the internship program.
+
 ## 🌐 Socials:
 
 [![Telegram](https://img.shields.io/badge/Telegram-%231877F2.svg?logo=Telegram&logoColor=white)](https://t.me/MDimidov)
