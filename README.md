@@ -21,7 +21,7 @@
 
 ## 👨🏼‍💻 Experience
 
-- [**CSoft** (Jul.2025 - Aug.2025) - Internship](https://mdimidov.github.io/MyResume/img/certificates/csoft/intership-certificate.jpg) - Worked on a C++ project as part of the internship program.
+- [**CSoft** (Jul.2025 - Aug.2025) - Internship](https://mdimidov.github.io/MyResume/img/certificates/csoft/internship-certificate.jpg) - Worked on a C++ project as part of the internship program.
 
 ## 🌐 Socials:
 
