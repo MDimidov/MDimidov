@@ -164,7 +164,7 @@
 ## 😼 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats-omega-khaki-65.vercel.app/api?username=MDimidov&show_icons=true&theme=transparent&hide_border=true&text_color=595959&title_color=2b8405&icon_color=38761d&show=reviews,prs_merged_percentage" height="215"          alt="Stats graph"  />
+  <img src="https://github-readme-stats-omega-khaki-65.vercel.app/api/wakatime?username=MDimidov&theme=transparent&hide_border=true&text_color=595959&title_color=2b8405&custom_title=My Top 10 WakaTime Stats&langs_count=10" alt="Top Used Languages / WakaTime Stats"/>
  
    <details>
     <summary><b>🔥 More Stats</b></summary>
@@ -173,7 +173,7 @@
     <img src="https://github-readme-stats-omega-khaki-65.vercel.app/api/top-langs/?username=MDimidov&show_icons=true&theme=transparent&hide_border=true&text_color=595959&title_color=2b8405" alt="Top Languages"/>
     <br>
     <br>
-    <img src="https://github-readme-stats-omega-khaki-65.vercel.app/api/wakatime?username=MDimidov&theme=transparent&hide_border=true&text_color=595959&title_color=2b8405" alt="Top Contributed Repos"/>
+    <img src="https://github-readme-stats-omega-khaki-65.vercel.app/api?username=MDimidov&show_icons=true&theme=transparent&hide_border=true&text_color=595959&title_color=2b8405&icon_color=38761d&show=reviews,prs_merged_percentage" height="215" alt="Stats graph"  />
     <br>
     <br>
     <img src="https://github-readme-stats-omega-khaki-65.vercel.app/api?username=MDimidov&limit=5&theme=transparent&hide_border=true&text_color=595959&title_color=2b8405&combine_all_yearly_contributions=true" alt="Top Contributed Repos"/>
