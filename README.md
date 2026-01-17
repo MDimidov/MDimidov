@@ -137,11 +137,11 @@
   </a>
   <!-- Microsoft Excel -->
   <a href="https://www.microsoft.com/microsoft-365/excel" title="Microsoft Excel">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="Microsoft Excel" height="32" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Microsoft_Office_Excel_%282019%E2%80%932025%29.svg" alt="Microsoft Excel" height="32" />
   </a>&nbsp;
   <!-- Microsoft Word -->
   <a href="https://www.microsoft.com/microsoft-365/word" title="Microsoft Word">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg" alt="Microsoft Word" height="32" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Microsoft_Office_Word_%282019%E2%80%932025%29.svg" alt="Microsoft Word" height="32" />
   </a>&nbsp;
   <!-- Microsoft Powrpoint -->
   <a href="https://www.microsoft.com/microsoft-365/powerpoint" title="Microsoft PowerPoint (2019–present)">
