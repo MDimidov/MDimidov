@@ -83,6 +83,10 @@
   <a href="https://code.visualstudio.com/" title="VS Code">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" height="32"/>
   </a>&nbsp;
+  <!-- Angular -->
+  <a href="https://angular.dev//" title="Angular">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Angular_gradient_logo.png" alt="Angular" height="32"/>
+  </a>&nbsp;
   <!-- React -->
   <a href="https://react.dev/" title="React">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="32"/>
