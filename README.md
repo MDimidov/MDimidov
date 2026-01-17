@@ -164,7 +164,7 @@
 ## 😼 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats-omega-khaki-65.vercel.app/api/wakatime?username=MDimidov&theme=transparent&hide_border=true&text_color=595959&title_color=2b8405&custom_title=My Top 10 WakaTime Stats&langs_count=10" alt="Top Used Languages / WakaTime Stats"/>
+  <img src="https://github-readme-stats-omega-khaki-65.vercel.app/api/wakatime?username=MDimidov&theme=transparent&hide_border=true&text_color=595959&title_color=2b8405&custom_title=My%20Top%2010%20WakaTime%20Stats&langs_count=10" alt="Top Used Languages / WakaTime Stats"/>
  
    <details>
     <summary><b>🔥 More Stats</b></summary>
