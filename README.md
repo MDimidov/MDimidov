@@ -176,9 +176,6 @@
     <img src="https://github-readme-stats-omega-khaki-65.vercel.app/api?username=MDimidov&show_icons=true&theme=transparent&hide_border=true&text_color=595959&title_color=2b8405&icon_color=38761d&show=reviews,prs_merged_percentage" height="215" alt="Stats graph"  />
     <br>
     <br>
-    <img src="https://github-readme-stats-omega-khaki-65.vercel.app/api?username=MDimidov&limit=5&theme=transparent&hide_border=true&text_color=595959&title_color=2b8405&combine_all_yearly_contributions=true" alt="Top Contributed Repos"/>
-    <br>
-    <br>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MDimidov&theme=chartreuse_dark&hide_border=true" alt="Contributions" />
   </details>
 
