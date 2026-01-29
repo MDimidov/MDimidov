@@ -164,20 +164,28 @@
 ## 😼 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats-omega-khaki-65.vercel.app/api/wakatime?username=MDimidov&theme=transparent&hide_border=true&text_color=595959&title_color=2b8405&custom_title=My%20Top%2010%20WakaTime%20Stats&langs_count=10" alt="Top Used Languages / WakaTime Stats"/>
- 
-   <details>
-    <summary><b>🔥 More Stats</b></summary>
-    <img src="https://github-readme-streak-stats-theta-ochre-42.vercel.app?user=MDimidov&theme=shadow-green&hide_border=true&short_numbers=true&fire=EB5454&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-    <br>
-    <img src="https://github-readme-stats-omega-khaki-65.vercel.app/api/top-langs/?username=MDimidov&show_icons=true&theme=transparent&hide_border=true&text_color=595959&title_color=2b8405" alt="Top Languages"/>
-    <br>
-    <br>
-    <img src="https://github-readme-stats-omega-khaki-65.vercel.app/api?username=MDimidov&show_icons=true&theme=transparent&hide_border=true&text_color=595959&title_color=2b8405&icon_color=38761d&show=reviews,prs_merged_percentage" height="215" alt="Stats graph"  />
-    <br>
-    <br>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MDimidov&theme=chartreuse_dark&hide_border=true" alt="Contributions" />
+  <a target="_blank" href="https://wakatime.com/@MDimidov">
+    <img src="https://github-readme-stats-omega-khaki-65.vercel.app/api/wakatime?username=MDimidov&theme=transparent&hide_border=true&text_color=595959&title_color=2b8405&custom_title=My%20Top%2010%20WakaTime%20Stats&langs_count=10" alt="Top Used Languages / WakaTime Stats"/>
+  </a>
+  <br>
+  <br>
+  <details>
+   <summary><b>🔥 More Stats</b></summary>
+   <img src="https://github-readme-streak-stats-theta-ochre-42.vercel.app?user=MDimidov&theme=shadow-green&hide_border=true&short_numbers=true&fire=EB5454&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+   <br>
+   <img src="https://github-readme-stats-omega-khaki-65.vercel.app/api/top-langs/?username=MDimidov&show_icons=true&theme=transparent&hide_border=true&text_color=595959&title_color=2b8405" alt="Top Languages"/>
+   <br>
+   <br>
+   <img src="https://github-readme-stats-omega-khaki-65.vercel.app/api?username=MDimidov&show_icons=true&theme=transparent&hide_border=true&text_color=595959&title_color=2b8405&icon_color=38761d&show=reviews,prs_merged_percentage" height="215" alt="Stats graph"  />
+   <br>
+   <br>
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MDimidov&theme=chartreuse_dark&hide_border=true" alt="Contributions" />
   </details>
+  <br>
+  <br>
+  <a target="_blank" href="https://wakatime.com/@MDimidov">
+    <img src="https://wakatime.com/share/@MDimidov/7f3f424b-c284-490a-9dc0-6e24dae47a07.svg" alt="WakaTime Coding Activity"/>
+  </a>
 
 </div>
 
