@@ -181,15 +181,13 @@
    <br>
    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MDimidov&theme=chartreuse_dark&hide_border=true" alt="Contributions" />
   </details>
-  <br>
-  <br>
-  <a target="_blank" href="https://wakatime.com/@MDimidov">
-    <img src="https://wakatime.com/share/@MDimidov/7f3f424b-c284-490a-9dc0-6e24dae47a07.svg" alt="WakaTime Coding Activity"/>
-  </a>
 
 </div>
+<br>
 
+## 🕒 Coding Activity
 <div align="center">
 
+  ![Wakatime Coding Activity](https://wakatime.com/share/@MDimidov/7f3f424b-c284-490a-9dc0-6e24dae47a07.svg)  
   ![Visitor view](https://komarev.com/ghpvc/?username=MDimidov&color=267208&style=plastic&abbreviated=true&label=Profile+Visits)
 </div>
