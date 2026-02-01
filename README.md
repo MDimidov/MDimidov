@@ -23,7 +23,7 @@
 
 - [**CSoft** (Jul.2025 - Aug.2025) - Internship](https://mdimidov.github.io/MyResume/img/certificates/csoft/internship-certificate.jpg) - Worked on a C++ project as part of the internship program.
 
-## 🌐 Socials:
+## 🌐 Socials
 
 [![Telegram](https://img.shields.io/badge/Telegram-%231877F2.svg?logo=Telegram&logoColor=white)](https://t.me/MDimidov)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dimidov)
@@ -161,7 +161,7 @@
 <br>
 <br>
 
-## 😼 GitHub Stats:
+## 😼 Profile Stats
 
 <div align="center">
   <a target="_blank" href="https://wakatime.com/@MDimidov">
@@ -170,7 +170,7 @@
   <br>
   <br>
   <details>
-   <summary><b>🔥 More Stats</b></summary>
+   <summary><b>🔥 Click for More Stats</b></summary>
    <img src="https://github-readme-streak-stats-theta-ochre-42.vercel.app?user=MDimidov&theme=shadow-green&hide_border=true&short_numbers=true&fire=EB5454&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
    <br>
    <img src="https://github-readme-stats-omega-khaki-65.vercel.app/api/top-langs/?username=MDimidov&show_icons=true&theme=transparent&hide_border=true&text_color=595959&title_color=2b8405" alt="Top Languages"/>
@@ -188,6 +188,6 @@
 ## 🕒 Coding Activity
 <div align="center">
 
-  ![Wakatime Coding Activity](https://wakatime.com/share/@MDimidov/7f3f424b-c284-490a-9dc0-6e24dae47a07.svg)  
+  [![Wakatime Coding Activity](https://wakatime.com/share/@MDimidov/7f3f424b-c284-490a-9dc0-6e24dae47a07.svg)](https://wakatime.com/@MDimidov)  
   ![Visitor view](https://komarev.com/ghpvc/?username=MDimidov&color=267208&style=plastic&abbreviated=true&label=Profile+Visits)
 </div>
