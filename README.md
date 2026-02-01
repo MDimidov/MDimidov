@@ -6,29 +6,33 @@
 </a>
 </div>
 <br>
+<br>
 
 ## 🤸🏻‍♂️ About Me
 
 - 💻 I specialize in C# development and have a passion for creating scalable and efficient solutions.
 - 🤝 I’m actively seeking opportunities to contribute to impactful open-source projects.
 - ⚡ Fun fact: Debugging can be like solving a mystery, but unlike Sherlock Holmes, I don't mind spending hours in the process (though coffee helps)!
-  <br>
+<br>
+<br>
 
 ## 🎓 Education
 
 - [**Nikola Vaptsarov Naval Academy** (2016-2020) - Bachelor's degree in Engineering with a specialization in Navigation (5.61/6.00 GPA)](https://mdimidov.github.io/MyResume/img/certificates/naval/naval-diploma.jpg)
 - [**Software University** (2022-2024) - Professional degree in Software Engineering (6.00/6.00 GPA)](https://softuni.bg/certificates/details/234872/33620e90)
+<br>
+<br>
 
 ## 👨🏼‍💻 Experience
 
 - [**CSoft** (Jul.2025 - Aug.2025) - Internship](https://mdimidov.github.io/MyResume/img/certificates/csoft/internship-certificate.jpg) - Worked on a C++ project as part of the internship program.
+<br>
+<br>
 
 ## 🌐 Socials
 
 [![Telegram](https://img.shields.io/badge/Telegram-%231877F2.svg?logo=Telegram&logoColor=white)](https://t.me/MDimidov)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dimidov)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/m_dimidov)
-
 <br>
 <br>
 
@@ -153,7 +157,6 @@
   </a>&nbsp;
 </p>
 <br>
-
 
 ## 🏆 GitHub Trophies
 
